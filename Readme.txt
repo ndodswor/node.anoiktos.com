@@ -1,3 +1,8 @@
+node.anoiktos.com readme
+
+This project is an (incomplete) example of the code used to produce node.anoiktos.com and the guessMe game
+You can check it out at node.anoiktos.com/guessMe
+
 Map of XServer (eXpress Server) files:
 
 XServer.js : Starts server
